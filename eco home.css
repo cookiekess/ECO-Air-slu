@@ -1,0 +1,209 @@
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  width: 260px;
+}
+
+/* Change the color of links on hover */
+.topnav {
+  background-color: #00b349;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav .active {
+  background-color: #00b349;
+  color: black;
+}
+  h1 {
+    font-family: Bauhaus;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+  }
+  h2{
+  font font-family: serif;
+  font-size: 40PX;
+  color: white;
+  text-align: center;
+  background: #003d34;
+}
+h3{
+  text-align: center;
+  color: white;
+  background-color: #003d34;
+  font: courier;
+  font-size: 40px;
+}
+body{
+  background-color: #007939;
+}
+h4{
+  font-family: serif;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  background-color: #003d34;
+
+}
+h3{
+  font-size: 80px
+
+}
+p1{
+  color: white;
+  font-size: 20px;
+}
+p2{
+  color: white;
+  font-size: 20px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.button1{
+background-color: #00787a;
+border: none;
+ color: white;
+ padding: 15px 32px;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 70px;
+object-position: center;
+
+}
+.dirt{
+   width:1200px; height:500px;
+   object-fit:fill;
+   border:none;
+}
+.help{
+  text-align: center;
+  font-size: 50px;
+}
+.button1{
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color: grey;
+  color: white;
+}
+.coal{
+  width:1200px; height:500px;
+  object-fit:fill;
+  border:none;
+}
+.share{
+  background-color: #00787a;
+  border: none;
+   color: white;
+   padding: 15px 32px;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 70px;
+  : center;
+  transition-duration: 0.4s;
+}
+.share:hover {
+  background-color: grey;
+  color: white;
+}
+body .vid { /*The class where the video player is located*/
+
+width: 100%;
+
+margin: 0 auto;
+
+text-align: center;
+
+}
+body .place
+{
+
+width: 100%;
+
+margin: 0 auto;
+
+text-align: center;
+
+}
+.thing1
+{
+  text-align: center;
+}
+.thing2{
+  text-align: center;
+}
+.active1
+{
+  background-color:#00787a;
+}
+.active2
+{
+  background-color:#00787a;
+}
+.active3
+{
+  background-color:#00787a;
+}
+.active4
+{
+  background-color:#00787a;
+}
+h5{
+  font-family: serif;
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  background-color: #003d34;
+
+}
+p5{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+p6{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.insta{
+  Style: width: 50px; height: 50px;
+}
+.wa{
+Style: width: 50px; height: 50px;
+}
+p7{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #00787a;
+  color: white;
+  font size: 30px;
+
+}
+.form{
+  background-color: #00787a;
+}
+.me{
+text-align: center;
+}
